@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="src/imagens/pokeball.png" width="100" />
+  <img alt="Logo" src="src/imagens/pokeball.png" width="80" />
 </div>
 <h1 align="center">
   Matías Ezequiel Correa - Projeto "Listagem de Pokémons"
